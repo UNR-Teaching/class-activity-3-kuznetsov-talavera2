@@ -1,0 +1,1 @@
+In out Tic-Tac-Toe game we had three classes which are Player, Board, and Game. We unit-tested each function in our Player and Board class. We then created an integration test that tested different scenarios in tic-tac-toe, such as a cat's game.
